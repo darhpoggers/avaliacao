@@ -1,0 +1,54 @@
+body{
+    background-color: #FFEFD5	;
+    font-family: cursive;
+    background-image: url(https://www.medicus.pt/assets/images/blog/emagrecimento/20190418.png);
+    background-size: cover;
+}
+.calculadora{
+    width: 300px;
+    height: 550px;
+    background-color: #DA70D6;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50x;
+}
+.calculadora h1{
+    text-align: center;
+}
+
+img{
+width: ´300px;
+height: 700px;
+top: 50px;
+left: 50px;
+}
+
+h2{
+text-align: center;
+}
+.form{
+    position: relative;
+    margin-left: 50px;
+}
+.calcular{
+    position: relative;
+    margin-left: 55px;
+    margin-top: 30px;
+    font-size: 20px;
+    border-radius: 3px;
+    border: none;
+}
+.categorias{
+    position: relative;
+    text-align: center;
+    margin: 5px;
+    color: #fff;
+}
+.destaque{
+    color: #A020F0	;
+}
+#resultado{
+    text-align: center;
+}
